@@ -12,3 +12,7 @@ git push -u origin master
 
 # 4 获取远程数据
 git fetch origin
+
+# 5 修改后提交
+git commit -m "change text"
+git push -u origin master
