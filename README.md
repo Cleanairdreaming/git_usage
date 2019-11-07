@@ -14,5 +14,5 @@ git push -u origin master
 git fetch origin
 
 # 5 修改后提交
-|git commit -m "change text"
-|git push -u origin master
+git commit -m "change text"  
+git push -u origin master
