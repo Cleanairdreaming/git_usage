@@ -5,7 +5,7 @@ cd /target/dir
 git add .  
 
 ## 2 添加到远程仓库
-git remote add origin https://github.com/your/repository/link.git  
+git remote add origin `https://github.com/your/repository/link.git`  
 
 ## 3 push 
 设定upstream  
