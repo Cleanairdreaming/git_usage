@@ -18,4 +18,4 @@ git fetch origin
 
 # 5 修改后提交
 git commit -m "change text"  
-push见[步骤3](# 3 push)
+push见[步骤3](#3 push)
