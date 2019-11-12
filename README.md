@@ -42,9 +42,9 @@ or simply
 `$ git pull`  
 
 ## 5 修改后提交
-* 修改后须重新添加
-`$ git add .`
-* 提交修改
+* 修改后须重新添加  
+`$ git add .`  
+* 提交修改  
 `$ git commit -m "change text"`  
-* push
+* push  
 push见[步骤3](#3-push)  
