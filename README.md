@@ -1,4 +1,4 @@
-# git Guide
+# Git Guide
 
 ## 1 添加文件
 切换到工作目录  
@@ -37,9 +37,9 @@ or simply use
 
 ### 4.2 pull
 * Synopsis  
-`$ git fetch [<options>] [<repository> [<refspec>…]]`  
+`$ git pull [<options>] [<repository> [<refspec>…]]`  
 or simply  
-`$ git fetch`  
+`$ git pull`  
 
 ## 5 修改后提交
 * 修改后须重新添加
