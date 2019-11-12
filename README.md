@@ -1,7 +1,7 @@
 # git Guide
 
 ## 1 添加文件
-切换到工作目录
+切换到工作目录  
 `$ cd /target/dir`  
 初始化工作目录  
 `$ git init`  
@@ -42,5 +42,9 @@ or simply
 `$ git fetch`  
 
 ## 5 修改后提交
+* 修改后须重新添加
+`$ git add .`
+* 提交修改
 `$ git commit -m "change text"`  
+* push
 push见[步骤3](#3-push)  
