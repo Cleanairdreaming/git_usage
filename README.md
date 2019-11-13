@@ -34,7 +34,7 @@ git fetch
 or fetch the specified branch  
 `$ git fetch <远程主机名> <分支名> //注意之间有空格`  
 commonly used command  
-`$ git fetch origin master`
+`$ git fetch origin master`  
 or simply use  
 `$ git fetch`  
 
