@@ -19,6 +19,7 @@
 `$ git add .`  
 
 * clone仓库，省去了添加到远程仓库的操作  
+`$ git init`  
 `$ git clone <repositoy url>`  
 
 ## 2 添加到远程仓库
