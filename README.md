@@ -10,12 +10,16 @@
 * [6 有语法疑问](#6-有语法疑问)
 
 ## 1 添加文件
+* 自己创建文件
 切换到工作目录  
 `$ cd /target/dir`  
 初始化工作目录  
 `$ git init`  
 添加当前目录到git  
 `$ git add .`  
+
+* clone仓库，省去了添加到远程仓库的操作  
+`$ git clone <repositoy url>`  
 
 ## 2 添加到远程仓库
 `$ git remote add origin https://github.com/your/repository/link.git`  
