@@ -59,4 +59,5 @@ or simply
 push见[步骤3](#3-push)  
 ## 6 有语法疑问
 如果有语法疑问直接  
-`$ git help <command>`
+`$ git help <command>`  
+[cheat sheet for github](/docs/github-git-cheat-sheet.pdf)
