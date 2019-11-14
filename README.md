@@ -63,7 +63,8 @@ or simply
 * push  
 push见[步骤3](#3-push)  
 ## 6 有语法疑问
-如果有语法疑问直接  
+* 如果有语法疑问直接  
 `$ git help <command>`  
+* 备忘参考
 [cheat sheet for github](/docs/github-git-cheat-sheet.pdf)  
 [cheat sheet offical link](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
