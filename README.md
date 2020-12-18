@@ -87,4 +87,11 @@ push见[步骤3](#3-push)
 1. 强制更新当前仓库  
 `$ git push -f origin master `    
 
+## 8 清理.git目录过大
+
+1. 对本地git库进行更彻底清理和优化，这个指令花费的时间也会更长
+`git gc --aggressive`
+1. git清理配置
+`git gc --auto`
+这是一个设置的指令，并不会进行gc操作。如果有 7,000 个左右的松散对象或是 50 个以上的 packfile，Git 才会真正调用 gc 命令，即是这里设置了阈值，当然也可以通过修改配置中的 gc.auto 和 gc.autopacklimit 来调整这两个阈值
 
