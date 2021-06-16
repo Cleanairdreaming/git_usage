@@ -29,7 +29,7 @@
 
 ## 2 添加到远程仓库
 `$ git remote add origin https://github.com/your/repository/link.git`  
-`$ git remote set-url origin git@github.com:your/repository/link.git. # set to ssh`  
+`$ git remote set-url origin git@github.com:your/repository/link.git  # set to ssh`  
 
 ## 3 push 
 设定upstream  
